@@ -1,0 +1,15 @@
+name: JetonMarket
+main: JetonMarket\Base
+api: 3.0.6
+version: 1.0
+author: MustafaOzcan123
+
+commands:
+  jetonmarket:
+    description: Jeton Market
+  jetonum:
+    description: Jetonum
+  jetonver:
+    description: Jeton Ver
+  jetonkes:
+    description: Jeton Kes
